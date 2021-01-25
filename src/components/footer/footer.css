@@ -1,0 +1,11 @@
+.dlc-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+
+.dlc-footer-contact-icon {
+  width: 25px;
+  height: 25px;
+  margin: 0 5px;
+}
